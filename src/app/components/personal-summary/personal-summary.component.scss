@@ -1,0 +1,30 @@
+.card{
+    margin-top: 8rem;
+    padding: 1rem;
+
+    &-top {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            width: 8rem;
+            height: auto;
+            border-radius: 50%;
+        }
+
+        &-title{
+            margin-left: 2rem;
+
+            h2, h3 {
+                margin: 0;
+            }
+        }
+    }
+
+    &-bottom{
+        margin-top: 2rem;
+        line-height: 1.5rem;
+        text-align: center;
+    }
+}

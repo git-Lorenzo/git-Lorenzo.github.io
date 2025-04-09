@@ -1,0 +1,1 @@
+:root{--bg: #0f0f0f;--accent: #ff6b00;--text: #d4d4d4;--white: #ffffff}body{margin:0;font-family:"Inter",sans-serif;background-color:var(--bg);color:var(--text)}.container{max-width:670px;margin:0 auto;background-color:rgba(0,0,0,0)}
